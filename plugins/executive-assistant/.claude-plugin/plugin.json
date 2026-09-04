@@ -1,0 +1,17 @@
+{
+  "name": "executive-assistant",
+  "description": "Recurring executive-assistant automations as skills: inbox triage, morning and end-of-day briefings, weekly review, action-item tracking, meeting prep, meeting-note ingest, voice profile, relationship CRM, and receipt forwarding. All personal values live in one config file.",
+  "license": "MIT",
+  "author": {
+    "name": "Kristopher Triplett",
+    "url": "https://github.com/therealkris"
+  },
+  "keywords": [
+    "briefing",
+    "email-triage",
+    "meetings",
+    "productivity",
+    "scheduled-tasks",
+    "executive-assistant"
+  ]
+}

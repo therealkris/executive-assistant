@@ -1,0 +1,15 @@
+# Filled-in plugin configuration — real accounts, paths, and channel names. Never commit.
+# The `setup` skill normally writes this outside the repo entirely (see shared/capabilities.md),
+# but these patterns cover the legacy in-repo location and any local scratch copy.
+# Unanchored so they match at any depth, including plugins/*/shared/config.md.
+**/shared/config.md
+**/.executive-assistant/config.md
+
+# Python bytecode from the bundled scripts
+__pycache__/
+*.py[cod]
+
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
